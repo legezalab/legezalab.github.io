@@ -1,0 +1,39 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.legeza.pro" resolutions="1x" timestamp="1493658095952">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="387765723" ref="index"/>
+    <file name="nomq_index.css" crc="4222686588" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="20170415-(tokyo)-036-web-crop-u110.jpg" crc="400501454" ref="index"/>
+    <file name="u584-10.png" crc="4009601669" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1102.jpg" crc="138461559" ref="index"/>
+    <file name="u584-102.png" crc="3759581610" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1103.jpg" crc="534685332" ref="index"/>
+    <file name="u584-103.png" crc="471652290" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1104.jpg" crc="3965034132" ref="index"/>
+    <file name="u584-104.png" crc="4100634895" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1105.jpg" crc="3848696397" ref="index"/>
+    <file name="u584-105.png" crc="419266462" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1106.jpg" crc="3843977416" ref="index"/>
+    <file name="u584-106.png" crc="4108127638" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1107.jpg" crc="253005749" ref="index"/>
+    <file name="u584-107.png" crc="3971100032" ref="index"/>
+    <file name="20170415-(tokyo)-036-web1634x1090.jpg" crc="3950749039" seo="true" ref="index"/>
+    <file name="u584-108.png" crc="3875072418" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1108.jpg" crc="161535544" ref="index"/>
+    <file name="u584-109.png" crc="423212468" ref="index"/>
+    <file name="20170415-(tokyo)-036-web-crop-u1109.jpg" crc="3952386713" ref="index"/>
+    <file name="u584-1010.png" crc="144489255" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="432859376" seo="true" mt="1493500198928" redirect="true"/>
+</manifest>
